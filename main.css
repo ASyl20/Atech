@@ -33,6 +33,7 @@ hr {
     border-radius: 24px;
     background-color: #F00;
     border-color: #F00;
+    color: white;
 }
 .btn-lg.round2 {
     border-radius: 24px;
@@ -50,4 +51,5 @@ hr {
     border-radius: 24px;
     background-color: rgb(255, 145, 0);
     border-color: rgb(255, 145, 0);
+    color: white;
 }
