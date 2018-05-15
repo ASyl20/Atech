@@ -34,3 +34,20 @@ hr {
     background-color: #F00;
     border-color: #F00;
 }
+.btn-lg.round2 {
+    border-radius: 24px;
+    background-color: white;
+    border-color: white;
+    color: red;
+}
+.btn-lg.round2:hover {
+    border-radius: 24px;
+    background-color:  rgb(255, 145, 0);
+    border-color: rgb(255, 145, 0);
+    color: white;
+}
+.btn-lg.round:hover {
+    border-radius: 24px;
+    background-color: rgb(255, 145, 0);
+    border-color: rgb(255, 145, 0);
+}
