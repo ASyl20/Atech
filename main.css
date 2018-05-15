@@ -1,0 +1,36 @@
+body{
+    /* font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron{
+    background-image: url("img/computer-1185637_1920.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+    min-height: 600px;
+}
+hr {
+    height: 3px;
+    padding: 0;
+    color: #F00;
+    background-color: #F00;
+    border: 0;
+    
+  }
+.padding-60{
+    padding: 60px;
+}  
+.padding-20{
+    padding: 20px;
+}  
+.btn-lg.round {
+    border-radius: 24px;
+    background-color: #F00;
+    border-color: #F00;
+}
